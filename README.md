@@ -1,1 +1,3 @@
-# CAU__heat-and-mass-transfer
+# [전공] 열전달
+
+3학년 2학기
